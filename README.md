@@ -2,6 +2,9 @@ Guess My Number 🎯
 
 A simple browser-based number guessing game built using vanilla JavaScript. The player must guess a randomly generated number between 1 and 20, with real-time feedback, score tracking, and a high-score system.
 
+## 🔗 Live Demo
+👉 https://sagar-aherrao.github.io/Guess-my-number/
+
 📌 Project Overview
 
 Guess My Number is a beginner-friendly JavaScript project that demonstrates:
