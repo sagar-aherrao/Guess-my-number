@@ -74,10 +74,10 @@ High score updates dynamically during gameplay
 🖼️ Screenshots
 
 ### Game Start
-![Game Start](screenshots/game-start.png)
+![Game Start](screenshots/game-start.PNG)
 
 ### Correct Guess
-![Correct Guess](screenshots/correct-guess.png)
+![Correct Guess](screenshots/correct-guess.PNG)
 
 🚀 How to Run the Project
 
